@@ -1,0 +1,90 @@
+#sfondo{
+  background:url(background.jpg);
+  height: 816px;
+  width: 1225px;
+  padding: 2px 0 0 0;
+
+}
+
+#immagine{
+  text-align: center;
+  padding: 3% 40% 0 40%;
+}
+
+#titolo{
+  text-align:center;
+  color: #00ff00;
+  font-size: 20px;
+  font-family: Calibri;
+}
+.testo{
+
+  text-align: left;
+  color: white;
+  font-size: 16px;
+  text-align: justify;
+  text-align:left;
+  margin: 0 0 0 7%;
+  font-family: Calibri;
+}
+
+.testo2{
+
+  text-align: left;
+  color: white;
+  font-size: 14px;
+  text-align: justify;
+  text-align:left;
+  margin: 0 0 0 7%;
+  font-family:Calibri;
+}
+
+#box{
+  background-color: rgba(34, 34, 34, 0.7);
+  border-radius: 20px;
+  margin: 3% 15% 15% 15%;
+}
+
+#box2{
+  width:86%;
+  height: 12%;
+  background-color: #00ff00;
+  margin:3px 7% 0 7%;
+  opacity: 100%;
+  text-align: center;
+}
+
+#box3{
+  width:31%;
+  height: 12%;
+  background-color:rgba(255,165,0,1.0);
+  margin:0 0 0 7%;
+  opacity: 100%;
+  text-align: center;
+  border-radius: 5px;
+}
+
+#box4{
+  width:67%;
+  height: 12%;
+  background-color: #ccff00;
+  margin:0 0 0 7%;
+  opacity: 100%;
+  text-align: center;
+  border-radius: 5px;
+}
+
+  #box5{
+    width:12%;
+    height: 12%;
+    background-color: rgb(255, 0, 0);
+    margin:0 0 0 7%;
+    opacity: 100%;
+    text-align: center;
+    border-radius: 5px;
+  }
+
+  button {
+    text-align: center;
+    margin: 7px 3px 7px 3px;
+  }
